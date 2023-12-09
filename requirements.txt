@@ -3,3 +3,4 @@ Gunicorn
 ffmpeg
 moviepy
 python-magic
+uvicorn[standard]
